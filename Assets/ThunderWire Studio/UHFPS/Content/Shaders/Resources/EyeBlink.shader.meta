@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 81bc50a764a133643a7ebf3f90154682
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Shaders/Resources/EyeBlink.shader
+  uploadId: 690861

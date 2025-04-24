@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 21eea11559b47ea4ebb29e043459fd83
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/HDRP/Samples/Volumetric Samples/Fog
+    Volume Shadergraph/Procedural Noises/Noise3D.hlsl
+  uploadId: 690861

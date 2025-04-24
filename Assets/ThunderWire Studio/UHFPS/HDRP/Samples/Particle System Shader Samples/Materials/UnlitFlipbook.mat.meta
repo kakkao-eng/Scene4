@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab7219c13d3fdb34eb47c6dab4eab0fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/HDRP/Samples/Particle System Shader
+    Samples/Materials/UnlitFlipbook.mat
+  uploadId: 690861

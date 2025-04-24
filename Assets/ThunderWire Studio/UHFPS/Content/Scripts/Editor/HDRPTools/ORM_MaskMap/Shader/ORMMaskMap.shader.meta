@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82e2fee2ccd603349bfd4ec13a3ac076
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Editor/HDRPTools/ORM_MaskMap/Shader/ORMMaskMap.shader
+  uploadId: 690861

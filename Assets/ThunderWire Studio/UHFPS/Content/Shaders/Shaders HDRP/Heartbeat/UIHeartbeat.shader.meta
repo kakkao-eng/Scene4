@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 19760dd1769c9c946bf8eb4de5e192ac
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Shaders/Shaders HDRP/Heartbeat/UIHeartbeat.shader
+  uploadId: 690861

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 55bd530018497aa47a1dc0f1d1e07715
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/HDRP/Samples/Volumetric Samples/Fog
+    Volume Shadergraph/Volumetric Heart Material.mat
+  uploadId: 690861

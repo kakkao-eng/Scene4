@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 868d51465ac9fcf44aa8929aa75a11ac
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Runtime/RenderFeatures/GaussianBlur.cs
+  uploadId: 690861

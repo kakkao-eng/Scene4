@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76c5c3415a182b04782795e71e3d2a2b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Scriptables/Game/StateMachine/Player/(States)
+    PlayerStrafe.asset
+  uploadId: 690861

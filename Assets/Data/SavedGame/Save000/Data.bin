@@ -1,0 +1,103 @@
+{
+  "id": "3726213e2dde4b158e299a7720f00af8",
+  "playerData": {
+    "position": {
+      "x": 3.7,
+      "y": 1.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 270.0,
+      "y": 0.0
+    },
+    "localData": {
+      "health": 100,
+      "selectedItem": -1,
+      "playerItems": {
+        "playerItem_0": {
+          "recordingTime": 0,
+          "batteryEnergy": 100.0,
+          "nightVision": false
+        },
+        "playerItem_1": {},
+        "playerItem_2": {},
+        "playerItem_3": {
+          "flashlightAttached": false
+        },
+        "playerItem_4": {
+          "batteryEnergy": 320.0
+        },
+        "playerItem_5": {
+          "currentFuel": 60.0
+        },
+        "playerItem_6": {},
+        "playerItem_7": {},
+        "playerItem_8": {
+          "baseTemp": 23.0
+        },
+        "playerItem_9": {}
+      }
+    },
+    "globalData": {
+      "inventory": {
+        "expanded": 0,
+        "items": {},
+        "shortcuts": {
+          "shortcut_0": "{}",
+          "shortcut_1": "{}",
+          "shortcut_2": "{}",
+          "shortcut_3": "{}"
+        }
+      },
+      "objectives": {}
+    }
+  },
+  "worldState": {
+    "worldSaveables": {
+      "ElevatorSystem.689e4f57f45cd7b459f862c2b877c802": {
+        "floor": 2
+      },
+      "DraggableItem.efd33ed35fb3b804288bf41d2658ebc0": {
+        "position": {
+          "x": -4.539,
+          "y": -57.1664963,
+          "z": -0.421
+        },
+        "rotation": {
+          "x": 270.0,
+          "y": 319.823547,
+          "z": 0.0
+        }
+      },
+      "SaveableObject.457e213bcb2a54c46bfd08fde9c8c23d": {
+        "position": {
+          "x": 0.0,
+          "y": -29.0,
+          "z": -2.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "TimedInteractEvent.6b7f2241e80b2204ba059bec6f8fa36e": {
+        "interactOnce": false,
+        "isInteractTimed": false
+      },
+      "DraggableItem.8e6b10b63b36a5a4687bece42ecbc859": {
+        "position": {
+          "x": -4.617,
+          "y": -57.1664963,
+          "z": -0.15700005
+        },
+        "rotation": {
+          "x": 270.0,
+          "y": 5.15903121E-05,
+          "z": 0.0
+        }
+      }
+    },
+    "runtimeSaveables": {}
+  }
+}

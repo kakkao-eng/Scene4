@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f0beaeae137fda4cbe64c0765ee0414
+ComputeShaderImporter:
+  externalObjects: {}
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Scripts/Editor/HDRPTools/Packer/FastPack.compute
+  uploadId: 690861

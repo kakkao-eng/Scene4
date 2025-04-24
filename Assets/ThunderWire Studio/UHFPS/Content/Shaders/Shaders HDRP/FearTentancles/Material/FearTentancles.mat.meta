@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdd54a96511731f44a85aa0937551b5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Shaders/Shaders HDRP/FearTentancles/Material/FearTentancles.mat
+  uploadId: 690861

@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 0c8035b3336c9ca4fbb5b0145238651a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1995
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 1234
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: LeoMoon Studios
+    LuminaireCatalogNumber: 22625000
+    LuminaireDescription: Lightcast Directional luminaire
+    LampCatalogNumber: "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0"
+    LampDescription: 
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Art/Textures/IES Lights Pack/three-lobe-umbrella.ies
+  uploadId: 690861

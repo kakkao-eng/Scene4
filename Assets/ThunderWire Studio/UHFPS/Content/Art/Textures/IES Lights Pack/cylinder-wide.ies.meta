@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: a938e147721afd44d9290dd2c5c5e1fd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 9801397f829a1ed42984340315cbf362, type: 3}
+  iesMetaData:
+    FileFormatVersion: LM-63-1995
+    IESPhotometricType: Type C
+    IESMaximumIntensity: 10450
+    IESMaximumIntensityUnit: Lumens
+    Manufacturer: LeoMoon Studios
+    LuminaireCatalogNumber: 'CATALOG NO. : TH75-500-T4 WIDE w/SPACER D'
+    LuminaireDescription: 1/500W HALOGEN CLEAR MINICAN 7.5"DIA RECESSED LUMINAIRE
+      FACETED HYDROFORMED SEMI-SPECULAR REFLECTOR CLEAR GLASS LENS w/4"DEEP SPUN
+      SPECULAR ALUMINUM CONE
+    LampCatalogNumber: 'LAMP CODE : 500Q/CL/MC (EVR)'
+    LampDescription: 
+    PrefabLightType: 0
+    SpotAngle: 120
+    iesSize: 128
+    ApplyLightAttenuation: 1
+    UseIESMaximumIntensity: 1
+    CookieCompression: 2
+    LightAimAxisRotation: -90
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293702
+  packageName: UHFPS - Ultimate Horror FPS KIT (HDRP)
+  packageVersion: 1.4
+  assetPath: Assets/ThunderWire Studio/UHFPS/Content/Art/Textures/IES Lights Pack/cylinder-wide.ies
+  uploadId: 690861
